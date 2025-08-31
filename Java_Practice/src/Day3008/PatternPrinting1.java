@@ -11,7 +11,8 @@ public class PatternPrinting1
 			{
 				for(int k=1;k<=j;k++) 
 				{
-					System.out.print(j);
+					
+						System.out.print(j);
 				}
 			}
 
