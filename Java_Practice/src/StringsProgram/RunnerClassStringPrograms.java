@@ -1,4 +1,4 @@
-package StringsProgram;
+package stringsProgram;
 
 import java.util.Scanner;
 
@@ -46,10 +46,17 @@ public class RunnerClassStringPrograms
 //		LargestWordInString lwis= new LargestWordInString();
 //		System.out.println(lwis.findLargestWord(line));
 		
-		SwapFirstAndLastCharfromWord sfalcfw=new SwapFirstAndLastCharfromWord();
-		String result= sfalcfw.ReversedCharFromWord(line);
-		System.out.println(result);
+//		SwapFirstAndLastCharfromWord sfalcfw=new SwapFirstAndLastCharfromWord();
+//		String result= sfalcfw.ReversedCharFromWord(line);
+//		System.out.println(result);
 		
+		
+//		countFrequencyCharacter cfc = new countFrequencyCharacter();
+//		cfc.countFrequency(line);
+
+		reverseAllStringWordByWord raswbw= new reverseAllStringWordByWord();
+		String Result =raswbw.ReversedString(line);
+		System.out.println(Result);
 		
 		
 		
