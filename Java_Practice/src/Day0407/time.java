@@ -10,7 +10,7 @@ public class time {
 //		Scanner sc= new Scanner(System.in);	
 //		System.out.println("Enter the date of birth");
 //		long timestampMillis = sc.nextLong(); // Example: before 1970
-		long timestampMillis = -113981400000l;
+		long timestampMillis = -131779800000l;
 		// Convert to Instant (epoch time in milliseconds)
 		Instant instant = Instant.ofEpochMilli(timestampMillis);
 

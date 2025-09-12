@@ -54,12 +54,12 @@ public class RunnerClassStringPrograms
 //		countFrequencyCharacter cfc = new countFrequencyCharacter();
 //		cfc.countFrequency(line);
 
-		reverseAllStringWordByWord raswbw= new reverseAllStringWordByWord();
-		String Result =raswbw.ReversedString(line);
-		System.out.println(Result);
-		
-		
-		
+//		reverseAllStringWordByWord raswbw= new reverseAllStringWordByWord();
+//		String Result =raswbw.ReversedString(line);
+//		System.out.println(Result);
+//	
+		LengthOfLongestWordInString len=new  LengthOfLongestWordInString();
+		System.out.println("the longest length is "+len.longestWord(line));
 		
 		
 		
