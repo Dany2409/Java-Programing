@@ -58,11 +58,16 @@ public class RunnerClassStringPrograms
 //		String Result =raswbw.ReversedString(line);
 //		System.out.println(Result);
 //	
-		LengthOfLongestWordInString len=new  LengthOfLongestWordInString();
-		System.out.println("the longest length is "+len.longestWord(line));
+//		LengthOfLongestWordInString len=new  LengthOfLongestWordInString();
+//		System.out.println("the longest length is "+len.longestWord(line));
 		
+//		WordCount WC= new WordCount();
+//		int count = WC.CountOfWordInString(line);
+//		System.out.println(count);
 		
-		
+		FirstNonRepeativeCharecterFromString nc= new FirstNonRepeativeCharecterFromString();
+		char c= nc.NonRepeatingChar(line);
+		System.out.println(c);
 		
 		sc.close();
 	}
