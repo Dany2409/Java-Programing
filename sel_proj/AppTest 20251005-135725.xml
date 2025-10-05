@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AppTest" project="sel_proj" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.java.AppTest" time="8.176" displayname="AppTest" uniqueid="[engine:junit-jupiter]/[class:com.java.AppTest]">
+    <testcase name="headerLangShouldChange" classname="com.java.AppTest" time="4.161" displayname="headerLangShouldChange()" uniqueid="[engine:junit-jupiter]/[class:com.java.AppTest]/[method:headerLangShouldChange()]"/>
+    <testcase name="continueBtnlangShouldChange" classname="com.java.AppTest" time="4.014" displayname="continueBtnlangShouldChange()" uniqueid="[engine:junit-jupiter]/[class:com.java.AppTest]/[method:continueBtnlangShouldChange()]"/>
+  </testsuite>
+</testrun>
